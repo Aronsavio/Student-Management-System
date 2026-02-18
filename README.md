@@ -8,7 +8,7 @@ A console-based C++ project to manage student records, designed for learning Obj
 
 ## How to Run
 1. Open the project in any C++ IDE (Code::Blocks / Dev C++)
-2. Compile and run main.cpp
+2. Compile and run sms.cpp
 3. Follow console instructions
 
 ## Technologies Used
